@@ -1,0 +1,13 @@
+[1mdiff --git a/sujit.html b/sujit.html[m
+[1mindex 3f1e53d..49767c8 100644[m
+[1m--- a/sujit.html[m
+[1m+++ b/sujit.html[m
+[36m@@ -7,6 +7,6 @@[m
+ </head>[m
+ <body>[m
+     <p>sujit kumar sahoo</p>[m
+[31m-    <p>This is a new feature i added here(Sujit)</p>[m
+[32m+[m[32m    <p>This is a new feature i added here(Sai)</p>[m
+ </body>                                                          [m
+ </html>[m
+\ No newline at end of file[m
